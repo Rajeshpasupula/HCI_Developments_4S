@@ -1,0 +1,6 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:cxf="http://cxf.component.camel.apache.org/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <cxf:invoke>?</cxf:invoke>
+   </soapenv:Body>
+</soapenv:Envelope>
